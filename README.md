@@ -2,6 +2,7 @@
 Tmux is a terminal multiplexer for Unix-like operating systems. It allows multiple terminal sessions to be accessed simultaneously in a single window. It is useful for running more than one command-line program at the same time.\
 
 **USAGE:**\
+
 - sudo apt install tmux
 - go to your ~/ and touch **.tmux.conf**
   - if you have **.tmux.conf** skip this part
